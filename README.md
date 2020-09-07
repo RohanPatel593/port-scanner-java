@@ -1,6 +1,6 @@
 # Port Scanner in Java
-A Mini Project in Java for FY/SY students of CSE/IT students.
-Use of Eclipse IDE is recommended.
+###### A Mini Project in Java for FY/SY students of CSE/IT students.
+###### Use of Eclipse IDE is recommended.
 
 ## **GUI based program to scan for open ports on a particular IP.**
 #### * Open Command Prompt(cmd) in Windows.
