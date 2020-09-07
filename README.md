@@ -16,4 +16,5 @@ java PortScanner
 ##### Step 3 - Enter the IP and port range in which you want to perform the scan.
 #### * All the results will be displayed in some time depending on what type of output you want.(Only open ports or both open & close ports)
 #### * Approx 30 minutes will be taken to display the output.
+
 ###### * For Educational purposes only.
